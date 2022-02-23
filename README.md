@@ -1,1 +1,1 @@
-# swagger-ui-test
+# openapi-pages-test
