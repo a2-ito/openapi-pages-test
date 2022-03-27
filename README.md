@@ -1,7 +1,5 @@
 # openapi-pages-test
 
-ID/PASS: `testuser/password`
-
 ## Links
 
 ### Swagger UI
